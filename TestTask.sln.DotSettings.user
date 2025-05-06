@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=543c0c9c_002D7a1d_002D473f_002Db6ae_002D48efe35b174a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SumMinNums_ShouldReturn_IntegerOverflow_When_NumsIsTooLong" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BB304351-9FCC-4799-BEB2-9048F3AFC7E3::net8.0::TestTask.Application.Tests.SumMinNumsTestsWithOverflowTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::BB304351-9FCC-4799-BEB2-9048F3AFC7E3::net8.0::TestTask.Application.Tests.SumMinNumsLinqTest.SumMinNums_ShouldReturn_CorrectSum_When_Input_Is_Large_Array&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8c02c43f_002D820d_002D4060_002Da9f9_002D33495d6188c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SumMinNumsFeature_ShouldReturn_50_When_Input_Is_25_and_25" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BB304351-9FCC-4799-BEB2-9048F3AFC7E3::net8.0::TestTask.Application.Tests.SumMinNumsTestsWithOverflowTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

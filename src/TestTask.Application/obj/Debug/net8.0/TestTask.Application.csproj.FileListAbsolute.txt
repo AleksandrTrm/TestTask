@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\bin\Debug\net8.0\TestTask.Application.deps.json
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\bin\Debug\net8.0\TestTask.Application.dll
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\bin\Debug\net8.0\TestTask.Application.pdb
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\TestTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\TestTask.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\TestTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\TestTask.52EE827F.Up2Date
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\TestTask.Application.dll
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\refint\TestTask.Application.dll
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\TestTask.Application.pdb
+C:\Users\User\Desktop\TestTask\src\TestTask.Application\obj\Debug\net8.0\ref\TestTask.Application.dll
